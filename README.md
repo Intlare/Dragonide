@@ -13,4 +13,4 @@ Dragonide is compatible with:
 Other executors may not work
 
 ## Information
-For more information join the discord [server](https://discord.gg/2FRscDDTj2) or visit the [website!]()
+For more information join the discord [server](https://discord.gg/2FRscDDTj2) or visit the [website!](https://dragonide.netlify.app/)
