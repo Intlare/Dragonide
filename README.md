@@ -1,11 +1,11 @@
-# Dragonide
-Hello! This is the official repository for Dragonide. Dragonide is a feature rich roblox script with sleek ui!
+# mars hub
+Hello! This is the official repository for mars hub. mars hub is a feature rich roblox script with sleek ui!
 
 ## Script
 All scripts are located in this repository and on the discord [server](https://discord.gg/2FRscDDTj2)
 
 ## Compatability
-Dragonide is compatible with:
+mars hub  is compatible with:
 * Synapse X
 * Script-Ware
 * KRNL
@@ -13,4 +13,4 @@ Dragonide is compatible with:
 Other executors may not work
 
 ## Information
-For more information join the discord [server](https://discord.gg/2FRscDDTj2) or visit the [website!](https://dragonide.netlify.app/)
+For more information join the discord [server](https://discord.gg/2FRscDDTj2)
