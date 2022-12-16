@@ -1,4 +1,4 @@
-[![discord server](https://cdn.discordapp.com/attachments/1051619108690599936/1052648445376204810/background.png)](https://discord.gg/f9dQRWJVaf)
+[![discord server](https://cdn.discordapp.com/attachments/1051619108690599937/1053423345468719276/Untitled.png)](https://discord.gg/f9dQRWJVaf)
 
 # mars hub
 hello! This is the official repository for mars hub. mars hub is a feature rich roblox script with sleek ui!
